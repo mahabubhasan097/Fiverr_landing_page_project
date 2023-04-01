@@ -1,0 +1,395 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+
+/* aboutBegin media css start */
+.about-start {
+    margin-top: 66px;
+    text-align: center;
+}
+/* aboutBegin media css end  */
+
+/* solution media css start */
+.solution {
+    padding: 45px 0;
+}
+.solution-left-inner h2 {
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+.solution-left-inner p {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.solution-right-inner {
+    width: 80%;
+    margin: 25px auto 0;
+}
+/* solution media css end  */
+
+/* acompany media css start */
+.acompany {
+    padding: 25px 0;
+}
+.acompany-right {
+    padding-top: 25px;
+}
+.acompany-right-inner h2 {
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+.acompany-right-inner p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+/* acompany media css end  */
+
+/* counter media css start */
+.counter {
+    padding: 45px 0;
+}
+.counter-icon {
+    font-size: 25px;
+}
+.single-counter h2 {
+    font-size: 30px;
+    margin: 5px 0;
+}
+.single-counter p {
+    color: white;
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+/* counter media css end  */
+
+/* service media css start */
+.aservice {
+    padding: 45px 0;
+}
+.aservice-title h2 {
+    text-align: center;
+    font-size: 18px;
+}
+.single-aservice {
+    margin-top: 30px;
+}
+.single-aservice-icon i {
+    font-size: 30px;
+}
+.single-aservice-content h5 {
+    font-size: 16px;
+}
+.single-aservice-content p {
+    line-height: 1.6em;
+    font-size: 14px;
+}
+/* service media css end */
+
+/* testimonial media css start */
+.dsm-block{
+    display: block !important;
+}
+.atestimonial {
+    padding: 45px 0;
+}
+.testimonial-title h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+.single-testimonial {
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.single-testimonial i {
+    font-size: 18px;
+}
+.single-testimonial p {
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.testimone-img {
+    width: 22%;
+}
+.testimone-name {
+    width: 78%;
+    padding: 5px 0 0 15px;
+}
+/* testimonial media css end */
+
+/* terms and condition start */
+.termsCondition {
+    padding: 0 10px;
+    font-size: 13px;
+}
+.termsConditionInner {
+    padding: 40px 15px;
+}
+.termsTitle h4 {
+    font-size: 20px;
+}
+.termBox1 h5 {
+    font-size: 18px;
+}
+/* terms and condition end */
+
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.max-width{
+    max-width: 600px;
+}    
+/* aboutBegin media css start */
+.about-start {
+    margin-top: 66px;
+    text-align: center;
+}
+/* aboutBegin media css end  */
+
+/* solution media css start */
+.solution {
+    padding: 45px 0;
+}
+.solution-left-inner h2 {
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+.solution-left-inner p {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.solution-right-inner {
+    width: 80%;
+    margin: 25px auto 0;
+}
+/* solution media css end  */
+
+/* acompany media css start */
+.acompany {
+    padding: 25px 0;
+}
+.acompany-right {
+    padding-top: 25px;
+}
+.acompany-right-inner h2 {
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+.acompany-right-inner p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+/* acompany media css end  */
+
+/* counter media css start */
+.counter {
+    padding: 45px 0;
+}
+.counter-icon {
+    font-size: 25px;
+}
+.single-counter h2 {
+    font-size: 30px;
+    margin: 5px 0;
+}
+.single-counter p {
+    color: white;
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+/* counter media css end  */
+
+/* service media css start */
+.aservice {
+    padding: 45px 0;
+}
+.aservice-title h2 {
+    text-align: center;
+    font-size: 18px;
+}
+.single-aservice {
+    margin-top: 30px;
+}
+.single-aservice-icon i {
+    font-size: 30px;
+}
+.single-aservice-content h5 {
+    font-size: 16px;
+}
+.single-aservice-content p {
+    line-height: 1.6em;
+    font-size: 14px;
+}
+/* service media css end */
+
+/* testimonial media css start */
+.atestimonial {
+    padding: 45px 0;
+}
+.testimonial-title h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+.single-testimonial {
+    padding: 12px;
+    margin-bottom: 20px;
+    width: 32%;
+}
+.single-testimonial i {
+    font-size: 18px;
+}
+.single-testimonial p {
+    font-size: 13px;
+    line-height: 1.6em;
+}
+.testimone-img {
+    width: 30%;
+}
+.testimone-name {
+    width: 70%;
+    padding: 0 0 0 10px;
+}
+/* testimonial media css end */
+
+/* terms and condition start */
+.termsCondition {
+    padding: 0 10px;
+    font-size: 13px;
+}
+.termsConditionInner {
+    padding: 40px 15px;
+}
+.termsTitle h4 {
+    font-size: 20px;
+}
+.termBox1 h5 {
+    font-size: 18px;
+}
+/* terms and condition end */
+ 
+}
+ /* Medium devices (landscape phones, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.max-width2 {
+     max-width: 720px;
+} 
+/* aboutBegin media css start */
+.about-start {
+    margin-top: 66px;
+}
+/* aboutBegin media css end  */
+
+/* solution media css start  */
+.solution {
+    padding: 60px 0;
+}
+.solution-right-inner {
+    width: 90%;
+    margin: 25px auto 0;
+}
+/* solution media css end  */
+
+/* acompany media css start  */
+.acompany {
+    padding: 40px 0;
+}
+.acompanyLeftInner {
+    width: 60%;
+}
+.acompany-right {
+    padding-top: 10px;
+}
+/* acompany media css end  */
+
+/* counter media css start */
+.counter-icon {
+    font-size: 25px;
+}
+.single-counter h2 {
+    font-size: 25px;
+    margin: 15px 0;
+}
+.single-counter p {
+    font-size: 14px;
+}
+.counter {
+    padding: 60px 0;
+}
+/* counter media css end */
+
+/* service media css start */
+.aservice {
+    padding: 60px 0;
+}
+.single-aservice {
+    margin-top: 25px;
+}
+/* service media css end */
+
+/* testimonial media css start */
+.atestimonial {
+    padding: 60px 0;
+}
+.testimonial-title h2 {
+    margin-bottom: 35px;
+}
+.single-testimonial {
+    padding: 15px;
+}
+.single-testimonial p {
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.testimone-img {
+    width: 25%;
+}
+.testimone-name {
+    width: 75%;
+    padding: 0px 0 0 10px;
+}
+/* testimonial media css end*/
+    
+}
+ /* Large devices (desktops, 992px and up) */   
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+.max-width {
+    max-width: 960px;
+} 
+.acompany-right {
+    padding-top: 35px;
+}
+.single-testimonial {
+    padding: 20px;
+}
+.testimone-img {
+    width: 22%;
+}
+.testimone-name {
+    width: 78%;
+}   
+ 
+}
+
+ /*Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.max-width {
+    max-width: 1140px;
+}
+}
+
+/* Extra extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {  
+
+}

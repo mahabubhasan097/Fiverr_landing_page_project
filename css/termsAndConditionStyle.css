@@ -1,0 +1,45 @@
+
+/* terms and condition */
+.terms-condition{
+    background-color: #ebfcff;
+    color: #263838;
+    padding: 0 92px;
+    box-sizing: border-box;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: none;
+}
+.terms-condition-inner{
+    color: #555555;
+    padding: 80px 100px;
+    box-shadow: 0 2px 24px 0 rgb(0 0 0 / 10%);
+    margin: 25px 0;
+    border-radius: 16px;
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+}
+.terms-title h4{
+    color: #263838;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin-bottom: 20px;
+    text-transform: none;
+}
+.terms-title h4::after {
+    width: 120px;
+    height: 1px;
+    margin: auto;
+    content: '';
+    display: block;
+    background: #39afd1;
+    margin-top: 18px;
+}
+.term-box1{
+    margin-bottom: 55px;
+}
+.term-box1 h5{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 25px 0 20px;
+}

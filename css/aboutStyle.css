@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 400;
+}
+.max-width{
+    max-width: 1230px;
+}
+
+/* aboutBegin css start */
+.about-start{
+    background-color: #e9e8f7;
+    min-height: 210px;
+    margin-top: 75px;
+    overflow-x: hidden !important;
+}
+.about-begin{
+    padding-top: 57px;
+}
+.about-a1{
+    color: #39afd1;
+}
+.about-a2{
+    color: #969696;
+}
+.slash-a{
+    color: #969696;
+    margin: 0 5px;
+}
+.about-begin h1{
+    margin: 25px 0 0;
+    font-weight: 700;
+}
+/* aboutBegin css end  */
+
+
+/* solution css start */
+.solution{
+    padding: 85px 0;
+    position: relative;
+    z-index: 1;
+    background-image: url(../aboutImage/aWBG.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden !important;
+}
+.solution:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255 255 255);
+    opacity: .4;
+    z-index: -1;
+}
+.solution-left-inner h2{
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.solution-left-inner p{
+    margin-bottom: 30px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.72em;
+}
+.solution-check{
+    margin: 5px 0 0 0 !important;
+}
+.solution-check i{
+    margin-right: 10px;
+    color: #39afd1;
+}
+.solution-right-inner{
+    margin: 0 auto;
+}
+.solution-right-inner img{
+    border-radius: 5px;
+    box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+}
+/* solution css end */
+
+/* company css start */
+.acompany{
+    position: relative;
+    z-index: 1;
+    padding: 60px 0;
+    background-image: url(../aboutImage/globe.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden !important;
+}
+.acompany:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255 255 255);
+    opacity: .8;
+    z-index: -1;
+}
+.acompany-left-inner{
+    width: 75%;
+    margin: 0 auto;
+}
+.acompany-right{
+    padding-top: 50px;
+}
+.acompany-right-inner h2{
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.acompany-right-inner p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.72em;
+}
+/* company css end */
+
+
+/* counter css start */
+.counter{
+    background-image: url(../aboutImage/co3.jpg);
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 85px 0;
+    overflow-x: hidden !important;
+}
+.single-counter p{
+    color: white;
+    font-size: 18px;
+    margin: 0;
+}
+.single-counter h2{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 22px 0;
+}
+.counter-icon{
+    font-size: 50px;
+}
+/* counter css end */
+
+/* service css start */
+.aservice{
+    padding: 85px 0;
+    position: relative;
+    z-index: 1;
+    background-image: url(../aboutImage/aWBG.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden !important;
+}
+.aservice:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255 255 255);
+    opacity: .4;
+    z-index: -1;
+}
+.single-aservice{
+    margin-top: 35px;
+}
+.aservice-title h2{
+    font-weight: 700;
+}
+.single-aservice-icon i{
+    font-size: 35px;
+    color: #39afd1;
+}
+.single-aservice-content h5{
+    font-size: 18px;
+    font-weight: 900;
+}
+.single-aservice-content p{
+    line-height: 1.72em;
+}
+/* service css end */
+
+/* testimonial css start */
+.atestimonial{
+    background-color: #f3f2fc;
+    padding: 85px 0;
+    overflow-x: hidden !important;
+}
+.testimonial-title h2{
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.single-testimonial{
+    background-color: white;
+    padding: 30px;
+    width: 32%;
+    border-radius: 6px;
+}
+.single-testimonial i{
+    display: block;
+    color: #39afd1;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.single-testimonial p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.72em;
+}
+.testimone-img{
+    width: 17%;
+}
+.testimone-img img{
+    border-radius: 50%;
+}
+.testimone-name{
+    width: 83%;
+    padding: 10px 0 0 15px;
+}
+.testimone-name P{
+    margin-bottom: 0;
+    font-weight: 700;
+    line-height: 1rem;
+}
+.testimone-name span{
+    font-size: 13px;
+    color: rgb(160, 160, 160);
+}
+
+/* testimonial css end */
